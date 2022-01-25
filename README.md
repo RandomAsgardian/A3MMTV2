@@ -1,4 +1,4 @@
-# A3MMTV2
+# A3MMTV2 - Arma 3 Mod Management Tool
 A total Mod management tool for Arma 3 Server Moderators
 
 Given an Arma 3 Modlist html, this tool can:
